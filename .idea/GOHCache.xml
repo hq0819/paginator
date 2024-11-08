@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="BaseModel">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/paginator.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PageInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/paginator.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Paginator">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/paginator.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/../demo/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1731046879877" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/paginator.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1731046854881" />
+              <option name="schema">
+                <list>
+                  <option value="BaseModel" />
+                  <option value="PageInfo" />
+                  <option value="Paginator" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="base_model" value="BaseModel" />
+        <entry key="page_info" value="PageInfo" />
+        <entry key="paginator" value="Paginator" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1730980706431" />
+  </component>
+</project>
